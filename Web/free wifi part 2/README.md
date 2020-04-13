@@ -13,7 +13,7 @@ passcode=54f03ae2
 ```
 
 while examining /staff.html I saw a cookie called wifi-alg it had the value sha1
-after playing around I discovered that the pincode is just the first 8 letters of the sha1
+after playing around I discovered that the pincode is just the first 8 letters of the sha1 of the base64d nonce
 
 so I fired up python and done :D
 ```
