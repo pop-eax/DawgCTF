@@ -5,7 +5,7 @@ this one was just a classic bufferovflow
 we will start by examining the binary 
 `checksec ./bof`
 
-![checksec]()
+![checksec](https://github.com/pop-eax/DawgCTF/raw/master/pwn/bof%20to%20the%20top/image.png)
 
 nothing unique no protection no ASLR
 
