@@ -9,7 +9,7 @@ Set-Cookie: JWT 'secret'="dawgCTF?heckin#bamboozle"; Path=/
 
 so after playing around and analysing the pcap file 
 I crafted the following jwt token
-
+![jwt.io](https://github.com/pop-eax/DawgCTF/raw/master/Web/free%20wifi%20part%204/img.png)
 `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZGVudGl0eSI6MzEzMzcsInVzZXJuYW1lIjoidHJ1ZSIsImlhdCI6IjE1ODY2OTg2NDYiLCJleHAiOiIxNTg2Njk5NTE3IiwibmJmIjoiMTU4NjY5ODUxNyJ9.2C3UHzTJ21r1eNLyNIdXL14sNoXdexg2wMKjpuEd1X8`
 
 the flag :P
