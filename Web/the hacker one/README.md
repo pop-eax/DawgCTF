@@ -128,7 +128,9 @@ I didn't know what to do, so I had to break it whatever it costs
 after some trial and error I got it 
 
 `aws s3 cp s3://rbtrust-internal/flag.txt ./1 `
-and done
+and done it took us 10 hours to finish it 
+
+![meme](https://pbs.twimg.com/media/Dpoi1z-VsAEQkYA?format=jpg&name=small)
 submitted 2 mins before the ctf ends :D
 
 
