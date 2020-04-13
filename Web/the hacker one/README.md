@@ -86,7 +86,7 @@ http://api.rbtrust.internal/debug?url_48902=file:///etc/passwd
 ![etc/passwd](https://github.com/pop-eax/DawgCTF/raw/master/Web/the%20hacker%20one/imgs/etcpasswd-1.png)
 we can see `/home/jobert` so the flag should be `/home/jobert/flag.txt` 
 
-**YES YES, STILL ARE WE F\*\*\*CKING DONE YET **
+**YES YES, STILL ARE WE F\*\*\*CKING DONE YET**
 **NO, there's still alot of pain and sacrifice**
 
 at this point there was still 30 minutes for the CTF and I need the flag
