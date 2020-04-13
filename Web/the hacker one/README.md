@@ -56,7 +56,7 @@ and I got some other endpoints
 
 now only `/reports` caught my eye but it's forbiden **hmmmmmmmmmm**:
 
-![api-reports](https://github.com/pop-eax/DawgCTF/raw/master/Web/the%20hacker%20one/imgs/apiReports-1.png.png)
+![api-reports](https://github.com/pop-eax/DawgCTF/raw/master/Web/the%20hacker%20one/imgs/apiReports-1.png)
 
 I also guessed `/reporters` because you know it makes sense, it's also forbiden :(
 
