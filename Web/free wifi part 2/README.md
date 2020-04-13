@@ -21,3 +21,5 @@ so I fired up python and done :D
 >>> hashlib.sha1("MjAyMC0wNC0xMiAxNDo1OA==".encode()).hexdigest()[:8] 
 '519db8fd'
 ```
+the flag
+`DawgCTF{k3y_b@s3d_l0g1n!}`
