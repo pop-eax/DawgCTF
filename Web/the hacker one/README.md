@@ -97,6 +97,7 @@ the only useful thing we found was this http://api.rbtrust.internal/debug?url_48
 
 
 ![dirsearch](https://github.com/pop-eax/DawgCTF/raw/master/Web/the%20hacker%20one/imgs/awsSecrets-1.png)
+![nahamsec](https://github.com/pop-eax/DawgCTF/raw/master/Web/the%20hacker%20one/imgs/nahamsec-id.png)
 
 **STILL WHERE'S THE FLAG GUYS**
 
@@ -137,3 +138,6 @@ submitted 2 mins before the ctf ends :D
 ![flag](https://github.com/pop-eax/DawgCTF/raw/master/Web/the%20hacker%20one/imgs/Final-flag.png)
 
 `flag{get_em_uPy4TWP1SQlcaukrU8GPe}`  
+
+only 2 solves :)
+![2 solves](https://github.com/pop-eax/DawgCTF/raw/master/Web/the%20hacker%20one/imgs/ww.png)
